@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá
 
+Me chamo Alexsander Santos Soares
+Estou estudando diversas linguagens de programação e conteudos relacionados a TI em geral.  
+Para qualquer dica, entrar em contato comigo através de alexsandersantossoares@outlook.com
 <!--
 **AlexsanderSSoares/AlexsanderSSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
